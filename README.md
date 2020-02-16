@@ -136,4 +136,4 @@ Here is some bookmaker loaders from my private project bets-frog.
 
 # Interested? Need help? Want to contribute?
 
-Contact me via Telegram: @cuamckuu
+Contact me via Telegram: https://t.me/cuamckuu
