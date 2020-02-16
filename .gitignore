@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+betlib/stats/
+__pycache__/
+archive/
+future/
+*.json
+*.pyc
+*.bat
+*.log
