@@ -1,0 +1,6 @@
+requests
+grequests
+lxml
+bs4
+gevent_openssl
+schedule
